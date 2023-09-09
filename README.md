@@ -2,6 +2,6 @@
 This is demo for git and github class.
 
 # Teacher
-shradha khapra
+shradha
 # Student
-Karan kumar
+karan
